@@ -7,7 +7,7 @@
 
 🌱 I'm currently diving deeper into Automation, AI Based Creator Tools, Cloud Computing, and expaning my coding knowledge in both Python and Javascript.
 
-🤝 I'm always interested in meeting and collaborating with both technically advanced developers and fellow creative artists to further the potential creative tools.
+🤝 I'm always interested in meeting and collaborating with both technically advanced developers and fellow creative artists to further the potential of creative tools.
 
 📫 Dont be a stranger. Hit me up with an email to talk shop. Reach me @ → machinepainting@proton.me
 
