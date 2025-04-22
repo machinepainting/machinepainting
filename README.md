@@ -1,7 +1,7 @@
 # 👋 Sup, I’m @machinepainting
 
 🎨 I'm a commercial artist by day, vampire coder by night. Currently focused on exploring, learning, and building AI-based creator tools.
-[[ devs, feel free to tell me to wake up and smell the coffee and how I can do better. I'm always open to learning more, hearing feedback, and taking suggestions. ]]
+[[ devs, feel free to tell me to wake up and smell the coffee and how I can do better. I'm always open to collabortating, learning more, hearing feedback, and taking suggestions. ]]
 
 🧠 I'm passionate about bridging the gap between technology and the arts through innovation and collaboration.
 
